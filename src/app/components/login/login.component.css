@@ -1,0 +1,14 @@
+center{
+  display: flex;
+  justify-content: center;
+}
+
+margin-top{
+  margin-top: 16px;
+}
+
+
+.sign-up-link{
+  font-size: 1.2rem;
+  margin-left: 8px;
+}
